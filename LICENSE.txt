@@ -1,0 +1,35 @@
+h1 {
+  color: red;
+  text-align: center;
+  font-family: verdana;
+}
+
+h2 {
+  color: #00008b;
+  border-style: dotted;
+}
+
+p {
+  mergin-bottom: 100px;
+  font-size: 20px;
+}
+
+body {
+  background-color: #ffb6c1;
+}
+
+p {
+  color: purple;
+}
+
+div {
+  hight: 200px;
+  width: 95%;
+  padding: 25px .5px;
+}
+
+img {
+  width: 50%;
+  margin: auto;
+  display: block;
+}
